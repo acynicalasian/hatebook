@@ -1,0 +1,6 @@
+2021-03-19  Arthur Kim  <arthur.kim@g.ucla.edu>
+
+	* src:
+	Added ChangeLog. Pushed hatebook repo to github.
+	Also, changed the README.md file to note that the base of the
+	program is the chorus-lapilli code from Assignment 3.
